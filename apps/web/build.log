@@ -1,0 +1,264 @@
+
+> build
+> react-router build
+
+vite v6.3.5 building for production...
+transforming...
+✓ 2044 modules transformed.
+rendering chunks...
+computing gzip size...
+build/client/.vite/manifest.json                      104.80 kB │ gzip:  6.21 kB
+build/client/assets/root-DzZRZjKG.css                  80.96 kB │ gzip: 11.72 kB
+build/client/assets/check-CLXJ8aWS.js                   0.33 kB │ gzip:  0.26 kB
+build/client/assets/chevron-left-CeSjbmcZ.js            0.34 kB │ gzip:  0.27 kB
+build/client/assets/productUtils-CkNUxX_F.js            0.35 kB │ gzip:  0.27 kB
+build/client/assets/message-circle-DtzN33vZ.js          0.36 kB │ gzip:  0.28 kB
+build/client/assets/plus-BDiOL90S.js                    0.36 kB │ gzip:  0.28 kB
+build/client/assets/x-Cg9-vnoo.js                       0.36 kB │ gzip:  0.28 kB
+build/client/assets/arrow-right-DKQi8GYN.js             0.37 kB │ gzip:  0.29 kB
+build/client/assets/arrow-left-Cv6H1si6.js              0.37 kB │ gzip:  0.29 kB
+build/client/assets/search-Z1iDdWJa.js                  0.38 kB │ gzip:  0.29 kB
+build/client/assets/circle-check-C3FM3K5Y.js            0.39 kB │ gzip:  0.30 kB
+build/client/assets/clock-DOdfQ-A5.js                   0.39 kB │ gzip:  0.30 kB
+build/client/assets/circle-check-big-C1unNmR8.js        0.41 kB │ gzip:  0.31 kB
+build/client/assets/award-DIh1iSPR.js                   0.41 kB │ gzip:  0.32 kB
+build/client/assets/eye-DY26Yb9t.js                     0.41 kB │ gzip:  0.31 kB
+build/client/assets/rotate-ccw-BkJGpNNk.js              0.41 kB │ gzip:  0.31 kB
+build/client/assets/info-B_GJ-aor.js                    0.41 kB │ gzip:  0.30 kB
+build/client/assets/trending-up-QTNtXVZp.js             0.41 kB │ gzip:  0.31 kB
+build/client/assets/lock-C2Kh1HuY.js                    0.42 kB │ gzip:  0.32 kB
+build/client/assets/star-B6-4hIx5.js                    0.42 kB │ gzip:  0.32 kB
+build/client/assets/target-B8OVms9g.js                  0.44 kB │ gzip:  0.29 kB
+build/client/assets/circle-help-BCyQsvte.js             0.45 kB │ gzip:  0.33 kB
+build/client/assets/globe-DOF7cSF5.js                   0.45 kB │ gzip:  0.32 kB
+build/client/assets/menu-CpMGlG8b.js                    0.45 kB │ gzip:  0.30 kB
+build/client/assets/zoom-out-BH2boiJf.js                0.45 kB │ gzip:  0.31 kB
+build/client/assets/heart-C_f66V1O.js                   0.46 kB │ gzip:  0.34 kB
+build/client/assets/circle-alert-DAoCY1Xv.js            0.46 kB │ gzip:  0.31 kB
+build/client/assets/square-pen-C4O8YNb_.js              0.46 kB │ gzip:  0.33 kB
+build/client/assets/calendar-D2ZobMS3.js                0.47 kB │ gzip:  0.33 kB
+build/client/assets/wrench-y-XePMZ3.js                  0.47 kB │ gzip:  0.33 kB
+build/client/assets/download-CyiFX257.js                0.47 kB │ gzip:  0.34 kB
+build/client/assets/zap-DucqRURR.js                     0.47 kB │ gzip:  0.33 kB
+build/client/assets/triangle-alert-BixH2sHb.js          0.47 kB │ gzip:  0.34 kB
+build/client/assets/shield-jhLB3Iu4.js                  0.48 kB │ gzip:  0.36 kB
+build/client/assets/grid-3x3-DRrOq0QU.js                0.50 kB │ gzip:  0.33 kB
+build/client/assets/zoom-in-BCPSSPxo.js                 0.51 kB │ gzip:  0.33 kB
+build/client/assets/users-BGaJEnan.js                   0.51 kB │ gzip:  0.35 kB
+build/client/assets/shield-check-nwaqOUzs.js            0.53 kB │ gzip:  0.38 kB
+build/client/assets/file-text-Dl61NW4K.js               0.54 kB │ gzip:  0.34 kB
+build/client/assets/trash-2-DFlgNUpN.js                 0.56 kB │ gzip:  0.37 kB
+build/client/assets/share-2-CBpq95qf.js                 0.57 kB │ gzip:  0.36 kB
+build/client/assets/crown-GjmdglVx.js                   0.57 kB │ gzip:  0.39 kB
+build/client/assets/phone-6yh_-9AY.js                   0.60 kB │ gzip:  0.38 kB
+build/client/assets/truck-DLa8HCvX.js                   0.62 kB │ gzip:  0.40 kB
+build/client/assets/list-CWmqlHh6.js                    0.62 kB │ gzip:  0.33 kB
+build/client/assets/sparkles-CmHRvQWi.js                0.63 kB │ gzip:  0.38 kB
+build/client/assets/building-2-Bq-MaIRL.js              0.65 kB │ gzip:  0.38 kB
+build/client/assets/page-1fnsGxI8.js                    0.65 kB │ gzip:  0.38 kB
+build/client/assets/building-Co4yhiPg.js                0.75 kB │ gzip:  0.40 kB
+build/client/assets/palette-BOvjEdni.js                 0.83 kB │ gzip:  0.47 kB
+build/client/assets/useAuth-tDpwHWED.js                 0.86 kB │ gzip:  0.43 kB
+build/client/assets/tag-CPjndOyy.js                     0.97 kB │ gzip:  0.48 kB
+build/client/assets/page-Cm0VOYG9.js                    1.19 kB │ gzip:  0.59 kB
+build/client/assets/page-BHWsnqbL.js                    1.19 kB │ gzip:  0.59 kB
+build/client/assets/page-DvAfp4c7.js                    1.19 kB │ gzip:  0.59 kB
+build/client/assets/page-CFRDaaKl.js                    1.19 kB │ gzip:  0.59 kB
+build/client/assets/imageUtils-f_1rF5Xo.js              1.22 kB │ gzip:  0.64 kB
+build/client/assets/createLucideIcon-CYD35-38.js        1.66 kB │ gzip:  0.70 kB
+build/client/assets/useUpload-D18CvZdz.js               1.66 kB │ gzip:  0.77 kB
+build/client/assets/page-BtgnZgEP.js                    1.72 kB │ gzip:  0.83 kB
+build/client/assets/context-Ck74g6vT.js                 2.05 kB │ gzip:  0.75 kB
+build/client/assets/useMutation-CH2wPccM.js             2.43 kB │ gzip:  0.98 kB
+build/client/assets/PolymorphicComponent-9_vSQL7O.js    3.70 kB │ gzip:  1.38 kB
+build/client/assets/page-A6JXNjXh.js                    3.74 kB │ gzip:  1.51 kB
+build/client/assets/diamond-DZjZ4OyH.js                 3.94 kB │ gzip:  0.90 kB
+build/client/assets/page-zTjvkfWQ.js                    4.20 kB │ gzip:  1.67 kB
+build/client/assets/not-found-DB-wiF2o.js               6.08 kB │ gzip:  2.18 kB
+build/client/assets/page-B3SRdJw4.js                    6.59 kB │ gzip:  2.30 kB
+build/client/assets/page-C8qOjR8A.js                    6.84 kB │ gzip:  2.36 kB
+build/client/assets/page-D9iN6OES.js                    7.67 kB │ gzip:  2.63 kB
+build/client/assets/MainProductsSection-fDHov90K.js     7.78 kB │ gzip:  2.78 kB
+build/client/assets/react-CGZJyOp0.js                   7.95 kB │ gzip:  2.94 kB
+build/client/assets/Footer-CTbFuSEL.js                  8.03 kB │ gzip:  2.62 kB
+build/client/assets/page-Dup2DRsV.js                    8.33 kB │ gzip:  2.55 kB
+build/client/assets/Interactive3D-Bi42aK-E.js           9.10 kB │ gzip:  3.30 kB
+build/client/assets/page-CEYLXkR3.js                    9.70 kB │ gzip:  3.13 kB
+build/client/assets/entry.client-6oEXSrD1.js            9.72 kB │ gzip:  3.57 kB
+build/client/assets/useQuery-CqtvtKZW.js               10.15 kB │ gzip:  3.27 kB
+build/client/assets/page-C9_cpWlv.js                   10.34 kB │ gzip:  3.28 kB
+build/client/assets/layout-CgQE-211.js                 10.51 kB │ gzip:  3.32 kB
+build/client/assets/page-D3v_V4Uz.js                   10.69 kB │ gzip:  3.38 kB
+build/client/assets/page-CxutetZB.js                   10.92 kB │ gzip:  3.38 kB
+build/client/assets/page-qaqfl-Jj.js                   11.04 kB │ gzip:  3.60 kB
+build/client/assets/Features-DCk_Eo2o.js               11.49 kB │ gzip:  3.67 kB
+build/client/assets/page-B2zWyZpp.js                   12.08 kB │ gzip:  3.35 kB
+build/client/assets/page-DgdT1MWE.js                   12.56 kB │ gzip:  3.94 kB
+build/client/assets/page-CsLfRBxI.js                   13.81 kB │ gzip:  4.46 kB
+build/client/assets/page-DRXzRK7O.js                   14.14 kB │ gzip:  4.03 kB
+build/client/assets/page-BI_4Gp0C.js                   14.15 kB │ gzip:  4.05 kB
+build/client/assets/ParallaxShowcase-Dg2GFw01.js       14.53 kB │ gzip:  4.74 kB
+build/client/assets/page-CNuIXXUk.js                   15.16 kB │ gzip:  4.50 kB
+build/client/assets/page-CtEnFAsy.js                   15.82 kB │ gzip:  4.75 kB
+build/client/assets/page-BpusOZZR.js                   16.04 kB │ gzip:  3.97 kB
+build/client/assets/page-BeZzp0J6.js                   16.14 kB │ gzip:  4.84 kB
+build/client/assets/page-DhF8ubdk.js                   16.15 kB │ gzip:  4.85 kB
+build/client/assets/page-BdTXEzLX.js                   16.41 kB │ gzip:  4.33 kB
+build/client/assets/ProductPageGuard-o6LwQ39o.js       17.05 kB │ gzip:  5.14 kB
+build/client/assets/page-D2bVN-bT.js                   17.27 kB │ gzip:  5.32 kB
+build/client/assets/page-DrKjs7ny.js                   17.77 kB │ gzip:  4.94 kB
+build/client/assets/page-B5cKEw0L.js                   17.83 kB │ gzip:  4.83 kB
+build/client/assets/page-DhoWN3C7.js                   17.99 kB │ gzip:  5.25 kB
+build/client/assets/page-DbWvl6yj.js                   18.02 kB │ gzip:  4.75 kB
+build/client/assets/page-BD3zd6zv.js                   18.78 kB │ gzip:  5.26 kB
+build/client/assets/page-CxlcpD3h.js                   19.35 kB │ gzip:  5.50 kB
+build/client/assets/page-qVgwNU-N.js                   19.74 kB │ gzip:  5.55 kB
+build/client/assets/page-DNETvKWk.js                   20.12 kB │ gzip:  6.09 kB
+build/client/assets/Header-2Z6ueSdU.js                 20.61 kB │ gzip:  6.25 kB
+build/client/assets/page-CRaQt9u1.js                   20.83 kB │ gzip:  4.95 kB
+build/client/assets/page-TEGwDLmu.js                   20.91 kB │ gzip:  5.25 kB
+build/client/assets/page-hxxstbsN.js                   20.91 kB │ gzip:  5.24 kB
+build/client/assets/page-DKllghSv.js                   21.23 kB │ gzip:  5.29 kB
+build/client/assets/page-Bk1fEhvQ.js                   21.97 kB │ gzip:  5.09 kB
+build/client/assets/page-BXypr5Zb.js                   22.29 kB │ gzip:  5.61 kB
+build/client/assets/page-CXosXR6X.js                   22.59 kB │ gzip:  5.80 kB
+build/client/assets/page-D8y4z8_X.js                   23.34 kB │ gzip:  5.99 kB
+build/client/assets/page-BvDiy7_Z.js                   23.56 kB │ gzip:  6.87 kB
+build/client/assets/page-BzNSmBez.js                   23.73 kB │ gzip:  6.22 kB
+build/client/assets/page-CTkSQbk7.js                   23.82 kB │ gzip:  6.31 kB
+build/client/assets/page-BOwKXrWK.js                   24.10 kB │ gzip:  6.63 kB
+build/client/assets/page-Hz1N7RhN.js                   24.11 kB │ gzip:  6.59 kB
+build/client/assets/page-Bh8FCF62.js                   24.18 kB │ gzip:  6.68 kB
+build/client/assets/page-BwKbluqY.js                   24.18 kB │ gzip:  6.67 kB
+build/client/assets/page-DdMpQEex.js                   24.26 kB │ gzip:  6.69 kB
+build/client/assets/page-dXLnXjep.js                   24.28 kB │ gzip:  6.64 kB
+build/client/assets/page-BbN8gGCG.js                   24.30 kB │ gzip:  6.70 kB
+build/client/assets/page-CMTSoX2l.js                   24.37 kB │ gzip:  6.65 kB
+build/client/assets/page-B5I7f8Z3.js                   24.41 kB │ gzip:  5.84 kB
+build/client/assets/page-bl9rhYwY.js                   24.48 kB │ gzip:  6.18 kB
+build/client/assets/page-BT9BDlgK.js                   24.60 kB │ gzip:  6.73 kB
+build/client/assets/page-BU0dqvg6.js                   24.61 kB │ gzip:  6.67 kB
+build/client/assets/page-BBq2pAoO.js                   24.94 kB │ gzip:  6.41 kB
+build/client/assets/page-CSKwPMY1.js                   25.16 kB │ gzip:  7.33 kB
+build/client/assets/page-N7eS5GtX.js                   25.32 kB │ gzip:  6.92 kB
+build/client/assets/page-BxCOXqSy.js                   25.40 kB │ gzip:  6.91 kB
+build/client/assets/page-CmPM9SA8.js                   25.60 kB │ gzip:  6.76 kB
+build/client/assets/page-CpM9YZDD.js                   26.00 kB │ gzip:  7.10 kB
+build/client/assets/page-Bkcc6Tsg.js                   26.02 kB │ gzip:  7.10 kB
+build/client/assets/page-BzNkXedM.js                   26.09 kB │ gzip:  7.16 kB
+build/client/assets/page-CRz0DICt.js                   26.11 kB │ gzip:  7.14 kB
+build/client/assets/page-BW8TEf36.js                   26.21 kB │ gzip:  6.38 kB
+build/client/assets/page-DpIyZfIZ.js                   26.35 kB │ gzip:  7.19 kB
+build/client/assets/page-SPF1G0iP.js                   26.40 kB │ gzip:  7.17 kB
+build/client/assets/page-DH0yklu9.js                   26.42 kB │ gzip:  7.21 kB
+build/client/assets/page-C51qU-UE.js                   26.43 kB │ gzip:  7.23 kB
+build/client/assets/page-De-paCR_.js                   26.48 kB │ gzip:  7.24 kB
+build/client/assets/page-CtCpbld0.js                   26.50 kB │ gzip:  7.18 kB
+build/client/assets/page-BfmOoq8W.js                   26.50 kB │ gzip:  7.23 kB
+build/client/assets/page-FQNY9g7K.js                   26.53 kB │ gzip:  7.25 kB
+build/client/assets/page-X2th3r9X.js                   26.54 kB │ gzip:  7.26 kB
+build/client/assets/page-wA4lyjcf.js                   26.65 kB │ gzip:  7.27 kB
+build/client/assets/page-C055LxlQ.js                   26.68 kB │ gzip:  7.29 kB
+build/client/assets/page-Ceq-CKn4.js                   26.68 kB │ gzip:  7.27 kB
+build/client/assets/page-Bpjgghgn.js                   26.71 kB │ gzip:  6.30 kB
+build/client/assets/page-BxKHgFe1.js                   26.93 kB │ gzip:  7.35 kB
+build/client/assets/page-LixoWTHi.js                   27.91 kB │ gzip:  6.96 kB
+build/client/assets/page-CeeQgSp0.js                   28.22 kB │ gzip:  6.87 kB
+build/client/assets/page-Z6po1qUy.js                   28.57 kB │ gzip:  6.90 kB
+build/client/assets/page-Br0P8c0V.js                   28.60 kB │ gzip:  7.70 kB
+build/client/assets/page-Cgt_e-rA.js                   28.85 kB │ gzip:  6.91 kB
+build/client/assets/layout-DOAopD-I.js                 28.88 kB │ gzip:  7.73 kB
+build/client/assets/page-B2i_wVsZ.js                   28.91 kB │ gzip:  6.96 kB
+build/client/assets/page-DpvpM8Bd.js                   32.94 kB │ gzip:  7.59 kB
+build/client/assets/productsData-DiKc0E2H.js           38.76 kB │ gzip:  6.11 kB
+build/client/assets/page-DUcYk432.js                  113.49 kB │ gzip: 25.43 kB
+build/client/assets/chunk-PVWAREVJ-D_rE8Vsp.js        116.03 kB │ gzip: 38.82 kB
+build/client/assets/index-3zEqXwft.js                 135.05 kB │ gzip: 43.32 kB
+build/client/assets/root-rSl0bQru.js                  176.38 kB │ gzip: 52.56 kB
+✓ built in 31.76s
+vite v6.3.5 building SSR bundle for production...
+transforming...
+src/app/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/layout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/content/blog/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/content/blog/edit/[id]/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/content/blog/new/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/content/pages/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/media/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/setup/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/admin/users/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/blog/[slug]/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/blog/sertifikalar/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksi/diamond/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksi-mumluk-premium-aksesuar/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2701-duz/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2705-seffaf-bogumlu/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2801-100luk-kanalli/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2804-denver/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2810-boncuk/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2815-kral/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2817-100luk-bombeli/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2818-100luk-dekorlu/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2819-100luk-duhok/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2844-kare/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2847-halab-100luk-halep/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-baba-2866-dubai/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2523-mimoza/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2525-nazenin/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2528-kosegen/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2529-tripoli/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2530-boncuk/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2532-bombeli/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2533-dekorlu/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2534-kral/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2536-duhok/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2537-v-vazo/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2538-beyza/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2539-80lik-kabarcikli/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2540-erciyes/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-2544-istanbul/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-3500-kosegen-100-luk-sise-dikme-diamond/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-3501-burgu-kanal-100-luk-diamond/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-3502-twisted-100-luk-diamond/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-3503-burgulu-80-lik-diamond/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-3504-ruby-80-lik-diamond/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/pleksiglas-korkuluk-dikme-40x40mm-2527-kare-model/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/preview/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/urunler/pleksi-babalar/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/urunler/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/urunler/pleksi-diamond-seri/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/urunler/pleksi-dikmeler/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/app/urunler/pleksi-mobilya-urunleri/page.jsx?noLayout.jsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+src/__create/useDevServerHeartbeat.ts (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+"ExternalLink", "UserPlus", "ChevronUp" and "Store" are imported from external module "lucide-react" but never used in "src/app/admin/layout.jsx", "src/app/admin/page.jsx?noLayout.jsx", "src/app/admin/content/blog/page.jsx?noLayout.jsx", "src/app/admin/content/blog/edit/[id]/page.jsx?noLayout.jsx", "src/app/admin/content/blog/new/page.jsx?noLayout.jsx", "src/app/admin/content/pages/page.jsx?noLayout.jsx", "src/app/admin/media/page.jsx?noLayout.jsx", "src/app/admin/setup/page.jsx?noLayout.jsx", "src/app/admin/users/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2822-100luk-yasemen/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2840-erciyes/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2841-istanbul/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2845-abudhabi/page.jsx?noLayout.jsx", "src/app/garanti-kosullari/page.jsx?noLayout.jsx", "src/app/gizlilik-politikasi/page.jsx?noLayout.jsx", "src/app/iade-ve-degisim/page.jsx?noLayout.jsx", "src/app/kalite-politikasi/page.jsx?noLayout.jsx", "src/app/kullanim-sartlari/page.jsx?noLayout.jsx", "src/app/kvkk/page.jsx?noLayout.jsx", "src/app/pleksi-mumluk-premium-aksesuar/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2701-duz/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2705-seffaf-bogumlu/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2801-100luk-kanalli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2804-denver/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2810-boncuk/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2815-kral/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2817-100luk-bombeli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2818-100luk-dekorlu/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2819-100luk-duhok/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2847-halab-100luk-halep/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2866-dubai/page.jsx?noLayout.jsx", "src/app/iletisim/page.jsx?noLayout.jsx", "src/app/kataloglar/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2839-tripoli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2844-kare/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-baba-2846-burgulu-kanalli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2502-seffaf-bogumlu/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2504-kanalli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2507-2-emniyet-seritli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2510-duz-3-emniyet-cubuklu/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2512-halab/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2513-baghdad/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2515-arbil/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2517-arbil-2-emniyet-cubuklu/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2518-mosul-2-emniyet-cubuklu/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2519-mosul-3-emniyet-cubuklu/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2520-duhok-3-emniyet-cubuklu/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2522-yasemen/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2523-mimoza/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2525-nazenin/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2528-kosegen/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2529-tripoli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2530-boncuk/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2532-bombeli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2533-dekorlu/page.jsx?noLayout.jsx", "src/app/blog/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2534-kral/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2536-duhok/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2537-v-vazo/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2538-beyza/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2539-80lik-kabarcikli/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2540-erciyes/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-2544-istanbul/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-900mm-50mm-2501-denver/page.jsx?noLayout.jsx", "src/app/preview/page.jsx?noLayout.jsx", "src/app/sertifikalar/page.jsx?noLayout.jsx", "src/app/pleksiglas-korkuluk-dikme-900mm-50mm-2501-denver-model/page.jsx?noLayout.jsx", "src/app/uygulamalar/page.jsx?noLayout.jsx", "src/app/uygulamalar/4/page.jsx?noLayout.jsx", "src/app/uygulamalar/istanbul-sariyer-villa-korkuluk-projesi/page.jsx?noLayout.jsx", "src/app/uygulamalar/istanbul-silivri-villa-pleksi-korkuluk-projesi/page.jsx?noLayout.jsx", "src/app/uygulamalar/pleksi-mobilya-urunleri/page.jsx?noLayout.jsx", "src/components/WhatsAppButton.jsx", "src/app/uygulmalar/istanbul-sariyer-villa-korkuluk-projesi/page.jsx?noLayout.jsx", "src/components/Header.jsx", "src/components/Hero.jsx", "src/components/MainProductsSection.jsx", "src/components/Interactive3D.jsx", "src/components/ParallaxShowcase.jsx", "src/components/Features.jsx", "src/components/blog/BlogNavHeader.jsx", "src/components/Footer.jsx", "src/components/blog/ArticleHeader.jsx", "src/components/About.jsx", "src/app/hakkimizda/page.jsx?noLayout.jsx", "src/components/ProductPageGuard.jsx", "src/components/urunler/PageHero.jsx", "src/components/urunler/ProductCategories.jsx", "src/components/blog/articles/PleksiMontajRehberi.jsx", "src/components/urunler/ProductCard.jsx" and "src/components/urunler/ProductModal.jsx".
+✓ 272 modules transformed.
+rendering chunks...
+[plugin vite:reporter] 
+(!) /home/ubuntu/wlmc/apps/web/src/components/Footer.jsx is dynamically imported by /home/ubuntu/wlmc/apps/web/src/app/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/page.jsx?noLayout.jsx but also statically imported by /home/ubuntu/wlmc/apps/web/src/app/blog/[slug]/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/blog/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/blog/sertifikalar/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/garanti-kosullari/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/gizlilik-politikasi/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/hakkimizda/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/iade-ve-degisim/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/iletisim/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/kalite-politikasi/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/kataloglar/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/kullanim-sartlari/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/kvkk/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksi-mumluk-premium-aksesuar/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksi/diamond/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2701-duz/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2705-seffaf-bogumlu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2801-100luk-kanalli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2804-denver/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2810-boncuk/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2815-kral/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2817-100luk-bombeli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2818-100luk-dekorlu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2819-100luk-duhok/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2839-tripoli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2844-kare/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2846-burgulu-kanalli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2847-halab-100luk-halep/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-baba-2866-dubai/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2502-seffaf-bogumlu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2504-kanalli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2507-2-emniyet-seritli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2510-duz-3-emniyet-cubuklu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2512-halab/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2513-baghdad/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2515-arbil/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2517-arbil-2-emniyet-cubuklu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2518-mosul-2-emniyet-cubuklu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2519-mosul-3-emniyet-cubuklu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2520-duhok-3-emniyet-cubuklu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2522-yasemen/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2523-mimoza/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2525-nazenin/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2528-kosegen/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2529-tripoli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2530-boncuk/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2532-bombeli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2533-dekorlu/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2534-kral/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2536-duhok/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2537-v-vazo/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2538-beyza/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2539-80lik-kabarcikli/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2540-erciyes/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-2544-istanbul/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-3500-kosegen-100-luk-sise-dikme-diamond/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-3501-burgu-kanal-100-luk-diamond/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-3502-twisted-100-luk-diamond/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-3503-burgulu-80-lik-diamond/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-3504-ruby-80-lik-diamond/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-40x40mm-2527-kare-model/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-900mm-50mm-2501-denver-model/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/pleksiglas-korkuluk-dikme-900mm-50mm-2501-denver/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/preview/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/sertifikalar/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/urunler/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/uygulamalar/4/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/uygulamalar/istanbul-sariyer-villa-korkuluk-projesi/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/uygulamalar/istanbul-silivri-villa-pleksi-korkuluk-projesi/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/uygulamalar/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/uygulamalar/pleksi-mobilya-urunleri/page.jsx?noLayout.jsx, /home/ubuntu/wlmc/apps/web/src/app/uygulmalar/istanbul-sariyer-villa-korkuluk-projesi/page.jsx?noLayout.jsx, dynamic import will not move module into another chunk.
+
+build/server/.vite/manifest.json                         2.20 kB
+build/server/assets/server-build-DzZRZjKG.css           80.96 kB
+build/server/index.js                                    0.79 kB
+build/server/assets/MainProductsSection-CMqfwvWv.js     13.51 kB
+build/server/assets/Interactive3D-DfBimaBG.js           15.26 kB
+build/server/assets/Features-DtrIgv_n.js                18.12 kB
+build/server/assets/ParallaxShowcase-DX3discH.js        25.42 kB
+build/server/assets/index-DA6jJSWK.js                   33.67 kB
+build/server/assets/server-build.js                  3,874.91 kB
+
+✓ 1 asset cleaned from React Router server build.
+build/server/assets/server-build-DzZRZjKG.css
+✓ 1 asset moved from React Router server build to client assets.
+build/client/assets/server-build-DzZRZjKG.css
+
+Error finding route files: Error: ENOENT: no such file or directory, scandir '/home/ubuntu/wlmc/apps/web/build/server/src/app/api'
+    at readdir (node:internal/fs/promises:954:18)
+    at findRouteFiles (file:///home/ubuntu/wlmc/apps/web/build/server/assets/index-DA6jJSWK.js:751:17)
+    at registerRoutes (file:///home/ubuntu/wlmc/apps/web/build/server/assets/index-DA6jJSWK.js:790:23)
+    at file:///home/ubuntu/wlmc/apps/web/build/server/assets/index-DA6jJSWK.js:846:1 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/ubuntu/wlmc/apps/web/build/server/src/app/api'
+}
