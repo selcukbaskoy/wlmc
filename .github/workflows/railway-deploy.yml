@@ -35,6 +35,7 @@ jobs:
       
     - name: Deploy to Railway
       run: |
+        cd apps/web
         railway login --token ${{ secrets.RAILWAY_TOKEN }}
         railway up --detach
       env:
