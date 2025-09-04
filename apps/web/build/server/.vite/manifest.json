@@ -1,0 +1,83 @@
+{
+  "_index-DA6jJSWK.js": {
+    "file": "assets/index-DA6jJSWK.js",
+    "name": "index",
+    "dynamicImports": [
+      "_server-build.js"
+    ]
+  },
+  "_server-build-DzZRZjKG.css": {
+    "file": "assets/server-build-DzZRZjKG.css",
+    "src": "_server-build-DzZRZjKG.css"
+  },
+  "_server-build.js": {
+    "file": "assets/server-build.js",
+    "name": "server-build",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-DA6jJSWK.js"
+    ],
+    "dynamicImports": [
+      "src/components/MainProductsSection.jsx",
+      "src/components/Interactive3D.jsx",
+      "src/components/ParallaxShowcase.jsx",
+      "src/components/Features.jsx",
+      "src/components/MainProductsSection.jsx",
+      "src/components/Interactive3D.jsx",
+      "src/components/Features.jsx",
+      "src/components/ParallaxShowcase.jsx"
+    ],
+    "css": [
+      "assets/server-build-DzZRZjKG.css"
+    ]
+  },
+  "src/components/Features.jsx": {
+    "file": "assets/Features-tCFooUkE.js",
+    "name": "Features",
+    "src": "src/components/Features.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-build.js",
+      "_index-DA6jJSWK.js"
+    ]
+  },
+  "src/components/Interactive3D.jsx": {
+    "file": "assets/Interactive3D-Cxh2_34W.js",
+    "name": "Interactive3D",
+    "src": "src/components/Interactive3D.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-build.js",
+      "_index-DA6jJSWK.js"
+    ]
+  },
+  "src/components/MainProductsSection.jsx": {
+    "file": "assets/MainProductsSection-BU1yMSLD.js",
+    "name": "MainProductsSection",
+    "src": "src/components/MainProductsSection.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-build.js",
+      "_index-DA6jJSWK.js"
+    ]
+  },
+  "src/components/ParallaxShowcase.jsx": {
+    "file": "assets/ParallaxShowcase-paAubUvM.js",
+    "name": "ParallaxShowcase",
+    "src": "src/components/ParallaxShowcase.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-build.js",
+      "_index-DA6jJSWK.js"
+    ]
+  },
+  "virtual:react-router/server-build": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:react-router/server-build",
+    "isEntry": true,
+    "imports": [
+      "_index-DA6jJSWK.js"
+    ]
+  }
+}

@@ -36,7 +36,7 @@ export async function GET(request) {
 			let component = null;
 			try {
 				const response = await import(
-					/* @vite-ignore */ path.join('../../../', route.file)
+					/* @vite-ignore */ path.resolve(process.cwd(), 'src/app', route.file)
 				);
 				component = response.default;
 			} catch (error) {

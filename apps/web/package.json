@@ -10,7 +10,7 @@
 		"dev": "react-router dev",
 		"typecheck": "react-router typegen && tsc --noEmit",
 		"build": "NODE_OPTIONS='--max-old-space-size=4096' react-router build",
-		"start": "node ./build/server/index.js"
+		"start": "node server.js"
 	},
 	"dependencies": {
 		"@auth/core": "^0.37.2",

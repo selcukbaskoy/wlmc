@@ -1,0 +1,37 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://walmco.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /__create/
+
+# Güvenli görsel koruması
+Disallow: /api/images/secure/
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /*.svg$
+Disallow: /*.webp$
+Disallow: /*.jpeg$
+
+# Allow important pages
+Allow: /urunler/
+Allow: /kataloglar/
+Allow: /uygulamalar/
+Allow: /hakkimizda/
+Allow: /iletisim/
+
+# Ürün görselleri için özel engelleme
+User-agent: Googlebot-Image
+Disallow: /urunler/
+Disallow: /pleksiglas-korkuluk
+
+

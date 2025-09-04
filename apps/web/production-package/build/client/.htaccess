@@ -1,0 +1,38 @@
+# WALMCO.COM - Natro Hosting Compatible .htaccess
+# Simple configuration for static React app
+
+# Turn on URL rewriting
+RewriteEngine On
+
+# Force HTTPS (Natro compatible)
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.walmco.com/$1 [R=301,L]
+
+# Force www
+RewriteCond %{HTTP_HOST} ^walmco\.com [NC]
+RewriteRule ^(.*)$ https://www.walmco.com/$1 [R=301,L]
+
+# Handle React Router (SPA)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+
+# Protect .env file
+<Files ".env">
+Order allow,deny
+Deny from all
+</Files>
+
+# Basic security
+<Files "*.log">
+Order allow,deny
+Deny from all
+</Files>
+
+# Set default file
+DirectoryIndex index.html
+
+# Allow access to assets
+<FilesMatch "\.(css|js|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot)$">
+    Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>
