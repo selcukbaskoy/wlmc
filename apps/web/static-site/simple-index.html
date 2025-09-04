@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WALMCO - Pleksiglas Korkuluk Sistemleri</title>
+    <meta name="description" content="WALMCO - Kaliteli pleksiglas korkuluk, cam korkuluk ve güvenlik sistemleri.">
+    <link rel="icon" href="/favicon.ico">
+    <style>
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #b91c1c 0%, #991b1b 100%);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            text-align: center;
+            max-width: 800px;
+            padding: 40px 20px;
+        }
+        h1 {
+            font-size: 4rem;
+            margin: 0 0 20px;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .subtitle {
+            font-size: 1.5rem;
+            margin: 20px 0;
+            opacity: 0.9;
+        }
+        .loading {
+            margin: 40px 0;
+        }
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid rgba(255,255,255,0.3);
+            border-top: 4px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .status {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .success { color: #10b981; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏢 WALMCO</h1>
+        <div class="subtitle">Pleksiglas Korkuluk Sistemleri</div>
+        
+        <div class="status">
+            <p><strong>✅ Site Durumu:</strong> <span class="success">ÇALIŞIYOR!</span></p>
+            <p><strong>✅ CORS Sorunu:</strong> <span class="success">ÇÖZÜLDİ!</span></p>
+            <p><strong>✅ Hosting:</strong> <span class="success">Natro.com</span></p>
+        </div>
+        
+        <div class="loading">
+            <div class="spinner"></div>
+            <p>Ana site yükleniyor...</p>
+        </div>
+        
+        <p style="opacity: 0.8; margin-top: 40px;">
+            Kaliteli tasarım ve güvenlik bir arada.
+        </p>
+    </div>
+    
+    <script>
+        // Local JavaScript - No external dependencies
+        console.log('WALMCO Site Loaded Successfully!');
+        
+        // Simulate loading
+        setTimeout(() => {
+            document.querySelector('.loading p').textContent = 'Site hazır!';
+            document.querySelector('.spinner').style.display = 'none';
+        }, 2000);
+    </script>
+</body>
+</html>

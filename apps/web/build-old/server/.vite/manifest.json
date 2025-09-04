@@ -1,0 +1,83 @@
+{
+  "_index-Ccl8Qzgl.js": {
+    "file": "assets/index-Ccl8Qzgl.js",
+    "name": "index",
+    "dynamicImports": [
+      "_server-build.js"
+    ]
+  },
+  "_server-build-1jLHSY88.css": {
+    "file": "assets/server-build-1jLHSY88.css",
+    "src": "_server-build-1jLHSY88.css"
+  },
+  "_server-build.js": {
+    "file": "assets/server-build.js",
+    "name": "server-build",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-Ccl8Qzgl.js"
+    ],
+    "dynamicImports": [
+      "src/components/MainProductsSection.jsx",
+      "src/components/Interactive3D.jsx",
+      "src/components/ParallaxShowcase.jsx",
+      "src/components/Features.jsx",
+      "src/components/MainProductsSection.jsx",
+      "src/components/Interactive3D.jsx",
+      "src/components/Features.jsx",
+      "src/components/ParallaxShowcase.jsx"
+    ],
+    "css": [
+      "assets/server-build-1jLHSY88.css"
+    ]
+  },
+  "src/components/Features.jsx": {
+    "file": "assets/Features-CdmMsQ9k.js",
+    "name": "Features",
+    "src": "src/components/Features.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-build.js",
+      "_index-Ccl8Qzgl.js"
+    ]
+  },
+  "src/components/Interactive3D.jsx": {
+    "file": "assets/Interactive3D-E52uvH0M.js",
+    "name": "Interactive3D",
+    "src": "src/components/Interactive3D.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-build.js",
+      "_index-Ccl8Qzgl.js"
+    ]
+  },
+  "src/components/MainProductsSection.jsx": {
+    "file": "assets/MainProductsSection-CVEnvxRL.js",
+    "name": "MainProductsSection",
+    "src": "src/components/MainProductsSection.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-build.js",
+      "_index-Ccl8Qzgl.js"
+    ]
+  },
+  "src/components/ParallaxShowcase.jsx": {
+    "file": "assets/ParallaxShowcase-BjbOB4ng.js",
+    "name": "ParallaxShowcase",
+    "src": "src/components/ParallaxShowcase.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_server-build.js",
+      "_index-Ccl8Qzgl.js"
+    ]
+  },
+  "virtual:react-router/server-build": {
+    "file": "index.js",
+    "name": "index",
+    "src": "virtual:react-router/server-build",
+    "isEntry": true,
+    "imports": [
+      "_index-Ccl8Qzgl.js"
+    ]
+  }
+}

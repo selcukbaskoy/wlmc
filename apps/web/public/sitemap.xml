@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Ana Sayfa -->
+  <url>
+    <loc>https://walmco.com/</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://walmco.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://walmco.com/"/>
+  </url>
+
+  <!-- Ürünler Sayfası -->
+  <url>
+    <loc>https://walmco.com/urunler</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://walmco.com/urunler"/>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://walmco.com/urunler"/>
+  </url>
+
+  <!-- Kataloglar Sayfası -->
+  <url>
+    <loc>https://walmco.com/kataloglar</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://walmco.com/kataloglar"/>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://walmco.com/kataloglar"/>
+  </url>
+
+  <!-- Uygulamalar Sayfası -->
+  <url>
+    <loc>https://walmco.com/uygulamalar</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://walmco.com/uygulamalar"/>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://walmco.com/uygulamalar"/>
+  </url>
+
+  <!-- Hakkımızda Sayfası -->
+  <url>
+    <loc>https://walmco.com/hakkimizda</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://walmco.com/hakkimizda"/>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://walmco.com/hakkimizda"/>
+  </url>
+
+  <!-- İletişim Sayfası -->
+  <url>
+    <loc>https://walmco.com/iletisim</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://walmco.com/iletisim"/>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://walmco.com/iletisim"/>
+  </url>
+
+  <!-- Ürün Kategorileri -->
+  <url>
+    <loc>https://walmco.com/urunler/pleksi</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://walmco.com/urunler/pleksi"/>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://walmco.com/urunler/pleksi"/>
+  </url>
+
+  <url>
+    <loc>https://walmco.com/urunler/aluminyum</loc>
+    <lastmod>2024-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://walmco.com/urunler/aluminyum"/>
+    <xhtml:link rel="alternate" hreflang="tr-TR" href="https://walmco.com/urunler/aluminyum"/>
+  </url>
+
+</urlset>
+
+

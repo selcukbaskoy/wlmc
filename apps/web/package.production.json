@@ -1,0 +1,24 @@
+{
+  "name": "walmco-web",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node ./build/server/index.js"
+  },
+  "dependencies": {
+    "@auth/core": "^0.37.2",
+    "@hono/auth-js": "^1.0.15",
+    "@neondatabase/serverless": "^0.10.4",
+    "argon2": "^0.43.0",
+    "hono": "^4.0.0",
+    "@hono/node-server": "^1.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^7.6.0",
+    "serialize-error": "^12.0.0",
+    "ws": "^8.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+# Alüminyum kategorisi kaldırıldı - 301 yönlendirmeleri
+/aluminyum /urunler 301
+/kategoriler/aluminyum/* /urunler 301
+
+# Genel yönlendirmeler
+/* /index.html 200

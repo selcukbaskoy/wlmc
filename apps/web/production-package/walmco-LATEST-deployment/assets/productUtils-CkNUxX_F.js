@@ -1,0 +1,1 @@
+import{p as n}from"./productsData-DiKc0E2H.js";if(typeof window<"u"){const e={};globalThis.process??={};const s=globalThis.process.env??{};globalThis.process.env=new Proxy(Object.assign({},e,s),{get(o,t){return t in o?o[t]:void 0},has(){return!0}})}const i=(e,s=3)=>[...n.filter(r=>r.id!==e)].sort(()=>.5-Math.random()).slice(0,s);export{i as g};
