@@ -28,8 +28,10 @@ jobs:
     - name: Build application
       run: |
         cd apps/web
-        timeout 300 npm run build
-      timeout-minutes: 10
+        timeout 600 npm run build
+      timeout-minutes: 15
+      env:
+        NODE_OPTIONS: --max-old-space-size=4096
         
     - name: Install Railway CLI
       run: npm install -g @railway/cli
