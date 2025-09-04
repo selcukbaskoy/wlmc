@@ -23,12 +23,13 @@ jobs:
     - name: Install dependencies
       run: |
         cd apps/web
-        npm ci
+        npm ci --prefer-offline --no-audit
         
     - name: Build application
       run: |
         cd apps/web
-        npm run build
+        timeout 300 npm run build
+      timeout-minutes: 10
         
     - name: Install Railway CLI
       run: npm install -g @railway/cli
