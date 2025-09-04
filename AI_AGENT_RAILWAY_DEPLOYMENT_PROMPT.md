@@ -359,7 +359,7 @@ git push origin master
 
 ### **GitHub Secrets:**
 - **RAILWAY_TOKEN:** b9bd86bf-4090-412e-9775-5514afec4664
-- **GITHUB_TOKEN:** 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
+- **GITHUB_TOKEN:** YOUR_GITHUB_TOKEN_HERE
 
 ### **Repository Structure:**
 ```
