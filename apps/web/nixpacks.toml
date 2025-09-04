@@ -8,11 +8,11 @@ cmds = ["npm ci"]
 cmds = ["npm run build"]
 
 [start]
-cmd = "npm start"
+cmd = "PORT=$PORT npm start"
 
 [healthcheck]
 path = "/api/health"
-port = 3000
+port = "$PORT"
 timeout = 30
 interval = 10
 retries = 3

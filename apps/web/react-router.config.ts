@@ -6,9 +6,8 @@ export default {
 	prerender: ['/*?'],
 	serverBuildFile: 'index.js',
 	serverModuleFormat: 'esm',
-	serverConditions: ['workerd', 'worker', 'browser'],
 	serverDependenciesToBundle: ['@react-router/node'],
+	serverConditions: ['workerd', 'worker', 'browser'],
 	serverMainFields: ['browser', 'module', 'main'],
-	serverMinify: process.env.NODE_ENV === 'production',
 	serverPlatform: 'node',
 } satisfies Config;

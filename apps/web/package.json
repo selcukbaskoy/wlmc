@@ -9,8 +9,8 @@
 	"scripts": {
 		"dev": "react-router dev",
 		"typecheck": "react-router typegen && tsc --noEmit",
-		"build": "NODE_OPTIONS='--max-old-space-size=4096' react-router build",
-		"start": "node server.js"
+		"build": "react-router build",
+		"start": "react-router serve"
 	},
 	"dependencies": {
 		"@auth/core": "^0.37.2",
